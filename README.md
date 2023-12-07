@@ -2,7 +2,7 @@
 
 "I keep getting emails I never asked for! I need a way to make them stop!"
 
-We've all been there - signed up for one website and suddenly getting bombarded with notifications we didn't agree to. It's beyond frustrating!
+We've all been there - someone entered wrong email ID, your email ID, during their signup and you start getting bombarded with notifications. It's beyond frustrating!
 
 NotMyMail provides a simple opt-out link empowering users to reclaim their inboxes. No more being held hostage to unintended emails. 
 
