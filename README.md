@@ -4,7 +4,7 @@
 
 We've all been there - someone entered wrong email ID, your email ID, during their signup and you start getting bombarded with notifications. It's beyond frustrating!
 
-NotMyMail provides a simple opt-out link empowering users to reclaim their inboxes. No more being held hostage to unintended emails. 
+NotMyMail provides a simple opt-out link empowering users to reclaim their inboxes.
 
 ## Take back control
 This library gives developers an easy way to include an "Unsubscribe this address" link in any notification email. Recipients can opt-out in one click.
